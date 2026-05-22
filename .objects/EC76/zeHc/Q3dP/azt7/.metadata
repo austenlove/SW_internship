@@ -1,0 +1,14 @@
+﻿{
+  "Name": "서울시 금천구 가산디지털2로",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "azt73jq2p02nRHa5rvbqTA",
+  "Reference": "T5_umxr88U2-qd-n09nl_A/azt73jq2p02nRHa5rvbqTA",
+  "ParentRef": "T5_umxr88U2-qd-n09nl_A/Q3dPvsTxHkqAssKzFoxPqg",
+  "Created": "2026-05-15T04:39:09.7624312Z",
+  "Updated": "2026-05-15T04:39:09.7624312Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

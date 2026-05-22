@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome 주소정보누리집(도로명주소 안내시스템)  메인",
+  "Type": "Screen",
+  "Id": "Q3dPvsTxHkqAssKzFoxPqg",
+  "Reference": "T5_umxr88U2-qd-n09nl_A/Q3dPvsTxHkqAssKzFoxPqg",
+  "ParentRef": "T5_umxr88U2-qd-n09nl_A/zeHcy3MDN06JfAQeQyc9uw",
+  "Created": "2026-05-15T04:25:09.8169789Z",
+  "Updated": "2026-05-15T04:25:09.8169789Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

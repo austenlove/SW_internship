@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="taui9hoGUU2JgNohVku6tw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="juso.go.kr" DesignTimeRectangle="1339, 418, 40, 40" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='searchIcon' parentid='searchBox' tag='I' /&gt;" Guid="cc9c5232-1006-4c7e-a88a-8a661e7faeaa" ScopeSelectorArgument="&lt;html app='chrome.exe' title='주소정보누리집(도로명주소 안내시스템) &amp;lt; 메인' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4ebfc375dce0aa4f4fff1852bf2f6e93.jpg" xmlns="">0zNjVJxCei0qMRlWxmvt35g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
